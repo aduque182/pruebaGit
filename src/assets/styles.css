@@ -1,0 +1,15 @@
+
+.fondoAzul{
+    background: lightblue !important;
+}
+
+.fondoVerde{
+    background: green;
+}
+
+.activado{
+
+    font-weight: bold;
+    background: yellow;
+
+}
